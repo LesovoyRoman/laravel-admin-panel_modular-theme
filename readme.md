@@ -1,6 +1,6 @@
-## Laravel 5.6 using Spatie's - Laravel Permission and Modular Admin.
+## Laravel 5.6 using Modular Admin.
 
-This is a Laravel 5.6 adminpanel starter project with roles-permissions based on [Spatie's Laravel-permission](https://github.com/spatie/laravel-permission) and [Modular Admin](https://github.com/modularcode/modular-admin-html).
+This is a Laravel 5.6 adminpanel starter project based on [Modular Admin](https://github.com/modularcode/modular-admin-html).
 
 ![Laravel 5.6 using Spatie's - Laravel Permission and Modular Admin](/screenshot/Laravel5.6_role_permission_modular_admin-min.PNG?raw=true)
 

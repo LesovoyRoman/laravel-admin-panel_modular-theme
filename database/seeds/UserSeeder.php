@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
             'password' => bcrypt('password'),
             'admin_unique_key' => $this->_random_str(60),
         ]);
-        $user->assignRole('administrator');
+        //$user->assignRole('administrator');
     }
 
     protected function _random_str($length, $keyspace = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
