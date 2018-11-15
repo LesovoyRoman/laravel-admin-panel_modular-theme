@@ -15,10 +15,6 @@ This is not a package - it's a full Laravel project that you should use as a sta
 - Run `php artisan migrate --seed` (it has some seeded data - see below)
 - That's it: launch the main URL and login with default credentials `admin@admin.com` - `password`
 
-This boilerplate has one role (`administrator`), two permission (`users_manage`,`master_manage`) and one administrator user.
-
-With that user you can create more roles/permissions/users, and then use them in your code, by using functionality like `Gate` or `@can`, as in default Laravel, or with help of Spatie's package methods.
-
 ## License
 
 No License, use it however you want.
